@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jun051873.salonspace",
+      "sha256_cert_fingerprints": [
+        "ED:E2:31:60:01:84:89:EE:05:ED:33:4D:17:54:AE:B4:A9:F9:D1:DC:5C:61:80:0B:7B:B5:43:89:D4:A4:80:BD"
+      ]
+    }
+  }
+]
